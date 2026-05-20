@@ -7,6 +7,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 Before generating any code, **always** check the `/docs` directory for relevant documentation files and follow the guidance found there. If a docs file exists that covers the feature, pattern, or technology being implemented, it takes precedence over default assumptions.
 
 - /docs/ui.md
+- /docs/data-fetching.md
 
 ## Commands
 
